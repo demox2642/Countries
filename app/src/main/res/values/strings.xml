@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="update">update</string>
+    <string name="country_name">Country name:</string>
+    <string name="flag">Flag:</string>
+    <string name="region">Region:</string>
+    <string name="capital">Capital:</string>
+    <string name="currencies">Currencies:</string>
+    <string name="timezones">TimeZones:</string>
+</resources>
